@@ -1,0 +1,12 @@
+h2 {
+    color: red;
+}
+body{
+    background-color: cyan;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d3d3d3;
+}
